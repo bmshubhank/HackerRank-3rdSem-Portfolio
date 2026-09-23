@@ -1,7 +1,7 @@
 # HackerRank Algorithmic Problem-Solving
 
-**Name:** ADITTHYA S S  
-**SRN:** R25EF012  
+**Name:** B M Shubhank  
+**SRN:** R25EF045  
 **Course:** B.Tech CSE  
 **Semester:** 3rd Semester
 
@@ -9,11 +9,11 @@ This repository contains my solutions for **Activity 8: HackerRank Algorithmic P
 
 ## HackerRank Profile
 
-[ADD YOUR HACKERRANK PROFILE URL]
+https://www.hackerrank.com/profile/bmshubhank8210
 
 ## Problem Solving / Language Badge
 
-[ADD AFTER EARNING BADGE]
+![Problem Solving / Language Badge](Badge.png)
 
 ## Table of Contents
 
@@ -22,6 +22,28 @@ This repository contains my solutions for **Activity 8: HackerRank Algorithmic P
 3. [Time Conversion](time-conversion/03-time-conversion.md)
 4. [Compare the Triplets](compare-the-triplets/04-compare-the-triplets.md)
 5. [Sparse Arrays](sparse-arrays/05-sparse-arrays.md)
+
+## Problem Screenshots
+
+### Diagonal Difference
+
+![Diagonal Difference screenshot](diagonal-difference/Diagonal%20Difference.png)
+
+### Dynamic Array
+
+![Dynamic Array screenshot](dynamic-array/Dynamic%20Array.png)
+
+### Time Conversion
+
+![Time Conversion screenshot](time-conversion/time%20Conversion.png)
+
+### Compare the Triplets
+
+![Compare the Triplets screenshot](compare-the-triplets/Compare%20the%20triplets.png)
+
+### Sparse Arrays
+
+![Sparse Arrays screenshot](sparse-arrays/Sparse%20Arrays.png)
 
 ## Complexity Summary
 
@@ -33,4 +55,4 @@ This repository contains my solutions for **Activity 8: HackerRank Algorithmic P
 | Compare the Triplets | O(1) | O(1) |
 | Sparse Arrays | O(N + Q) | O(N) |
 
-The repository does not claim HackerRank acceptance, scores, screenshots, or earned badges. Submission details can be added after they are actually available.
+The repository does not claim HackerRank acceptance, scores, or earned badges. The embedded images are provided as portfolio evidence. Submission details can be added after they are actually available.
